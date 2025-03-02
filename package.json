@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "express-rate-limit": "^5.2.5",
     "gifwrap": "^0.9.2",
-    "gm": "^1.23.1",
+    "gm": "^1.25.1",
     "jimp": "^0.16.1",
     "opusscript": "0.0.7",
     "request": "^2.88.2",
